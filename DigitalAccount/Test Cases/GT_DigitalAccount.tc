@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GT_DigitalAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6fe8f0a-6b83-4b17-af61-e84af794b391</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.G_Script_Mashup_GT</defaultValue>
+      <description></description>
+      <id>e7a02512-0c17-4cf7-99f5-d207fcbfe441</id>
+      <masked>false</masked>
+      <name>Script_Mashup_GT</name>
+   </variable>
+</TestCaseEntity>

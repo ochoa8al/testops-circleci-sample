@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ASALARIADONEGOCIO PROPIOOTRAS FUENTE_b50adc</name>
+   <tag></tag>
+   <elementGuidId>cb303827-e819-4f7e-8c8b-07460943b4e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#3ddfb29a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='3ddfb29a']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-change</name>
+      <type>Main</type>
+      <value>[[&quot;postValue&quot;,[&quot;:event&quot;]],[&quot;refresh&quot;, [&quot;otherSection&quot;,&quot;MobileCompanyAddressInfo&quot;, &quot;&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9OGRiNDEzMTlhMGIwYzIxZTlmYjdjODc4NTU2MDRmMzM0ZmNkOWI1NDZjMWM0YTE0YjQ0MzUzZDkzNzc2MzA0N2U3NzZiMWYyNTMxODBjMWY5MGVjMWNlNjdlMTc3YjAxMWMyODIyMDYwNmIwZGJjMjFkOWFlMzE4Nzg2YTBiYzg%3D*&quot;,{},{}],&quot;pyWorkPage&quot;]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9OGRiNDEzMTlhMGIwYzIxZTlmYjdjODc4NTU2MDRmMzM0ZmNkOWI1NDZjMWM0YTE0YjQ0MzUzZDkzNzc2MzA0N2U3NzZiMWYyNTMxODBjMWY5MGVjMWNlNjdlMTc3YjAxM2UzY2JiOTU2YzI0YmE0MmZmYzkyMzhlZTkxNWUwYTE0ZThmZjdhM2I3NDVmMzY0NTJlN2QxOTg2OTNlY2Q5NzZiMWQ5NTk3NGU4YjI1NjJhNTUyNjc4ZjIzMWJkNTZh*&quot;,{},{}],&quot;pyWorkPage&quot;]]]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ctl</name>
+      <type>Main</type>
+      <value>[&quot;Dropdown&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>3ddfb29a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bac_mobile</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>$PpyWorkPage$pMobileSourceofIncome</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>$PpyWorkPage$pMobileSourceofIncomeError</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+ASALARIADONEGOCIO PROPIOOTRAS FUENTES DE INGRESO
+
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3ddfb29a&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='3ddfb29a']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EXPAND-OUTERFRAME']/div[2]/div/div[4]/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fuente de ingresos'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sector'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Público'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+   </webElementXpaths>
+</WebElementEntity>

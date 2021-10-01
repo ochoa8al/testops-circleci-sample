@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Seleccione una opcionDPI</name>
+   <tag></tag>
+   <elementGuidId>4df5dc8a-a5f8-4c0d-9aed-cab94a8795ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#3af42660</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='3af42660']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-change</name>
+      <type>Main</type>
+      <value>[[&quot;postValue&quot;,[&quot;:event&quot;]],[&quot;setValue&quot;, [[&quot;pyWorkPage.CurrentBenefeciary.IdentityNumber&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;]]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;&quot;, &quot;=&quot;, &quot;&quot;, &quot;SetFormatLabel,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9OGZjODBiOTU1ZGUyYWMzNGI0NGQ0MDNhNzc2YjAwNTBhMjE1NGRlOGVlMmUyNDUwOTk2MWVkODAyY2M5NDRiNzU1YTg5NGJhZWVlMTMyMzdjMGM3Y2FkOTAwZTY4YzI2ZDY3ZDllNDFlMThlZDE0YjUwNDY0NmNmZmQwN2FiMGVmMzk0MjJkYzQ4YTc4MGM5NzA2Nzc1NTFlYjg5NmE4ODBkZDEzYTJhMWFiNzkxYTA2N2RjODY1ODM3NzZlZGU5MzE2NGFkNzk3YTAzMTJlNDY3MDI1MWJjMmJjMWYyYTFlMDBlYmFkNzJkMzgwYjA1NGQ2ZWZiMDU2ZTc3Njg1YTMzMjdmOWE3MTdjNGJkMTViMzc5ZTJmMjE4MDBlZDA5YThkZmU0ZWRhOGUzMGM5NjNlNjgwNjU4ZWQ3NzM3YjE4NzRjYWU1NWVhMjUzMWYyZWNjMjc5ODVlNTcwMTA5OTJmMjQ1NjllMjZjYmJmZmU1ODBjYzNlMDg4YWJiNjA1YzExMDIzOTdkMDIwYWE0MzJiMzU0YThmMjQyNGIyN2U%3D*&quot;,{},{&quot;FigurePageName&quot;:&quot;pyWorkPage.CurrentBenefeciary&quot;}],&quot;pyWorkPage&quot;]]]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ctl</name>
+      <type>Main</type>
+      <value>[&quot;Dropdown&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>3af42660</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bac_mobile</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>$PpyWorkPage$pCurrentBenefeciary$pIDDocumentType</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-expr-id</name>
+      <type>Main</type>
+      <value>a31330791c9ed688fa65aeb33fff6a443f3e696d_28</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-context</name>
+      <type>Main</type>
+      <value>pyWorkPage</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cellid</name>
+      <type>Main</type>
+      <value>17</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>$PpyWorkPage$pCurrentBenefeciary$pIDDocumentTypeError</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+  Seleccione una opcion
+
+DPINUMERO DE PASAPORTE EXTRANJERO
+
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3af42660&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='3af42660']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EXPAND-OUTERFRAME']/div[2]/div/div[2]/div/div[3]/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de identificación (Opcional)'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre completo del beneficiario'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de identificación (Opcional)'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formato:'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+   </webElementXpaths>
+</WebElementEntity>

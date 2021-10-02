@@ -1,5 +1,8 @@
 version: 2
 jobs:
+  build:
+    docker:
+      - image: buildpack-deps:trusty
   test:
     docker:
       - image: katalonstudio/katalon:8.1.0

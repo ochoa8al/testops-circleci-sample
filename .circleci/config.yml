@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run: 
           name: Hola Mundo
-          comand: cd DigitalAccount
+          command: cd DigitalAccount
   test:
     docker:
       - image: katalonstudio/katalon:8.1.0

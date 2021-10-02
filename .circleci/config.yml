@@ -3,14 +3,14 @@ jobs:
   build:
     docker:
       - image: buildpack-deps:trusty
-     steps:
+    steps:
       - checkout
       - run: echo "this is the build job"
-      test:
-        docker:
-          - image: katalonstudio/katalon:8.1.0
-        steps:
-          - checkout
-          - run: 
-              name: Execute Katalon Studio
-              command: cd DigitalAccount && katalon-execute.sh -statusDelay=30 -retry=0 -testSuitePath="Test Suites/GT_DigitalAccount_TestSuite" -exec
+  test:
+    docker:
+      - image: katalonstudio/katalon:8.1.0
+    steps:
+      - checkout
+      - run: 
+          name: Execute Katalon Studio
+          command: cd DigitalAccount && katalon-execute.sh -statusDelay=30 -retry=0 -testSuitePath="Test Suites/GT_DigitalAccount_TestSuite" -exec

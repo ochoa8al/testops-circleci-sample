@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run: 
           name: Hola Mundo
-          command: cd DigitalAccount
+          command: cd DigitalAccount && katalon-execute.sh -statusDelay=30 -retry=0 -testSuitePath="Test Suites/GT_DigitalAccount_TestSuite" -exec
   test:
     docker:
       - image: katalonstudio/katalon:8.1.0

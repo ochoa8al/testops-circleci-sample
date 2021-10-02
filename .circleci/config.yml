@@ -5,7 +5,9 @@ jobs:
       - image: buildpack-deps:trusty
     steps:
       - checkout
-      - run: echo "this is the build job"
+      - run: 
+          name: Hola Mundo
+          comand: cd DigitalAccount
   test:
     docker:
       - image: katalonstudio/katalon:8.1.0
